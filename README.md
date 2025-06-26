@@ -1,6 +1,6 @@
-# Laura3.0 - AI-Powered Mental Health Platform
+# Laura-AI - AI-Powered Mental Health Platform
 
-Laura3.0 is a comprehensive mental health platform that combines AI-powered insights, community support, and wearable device integration to provide personalized mental wellness solutions.
+Laura-AI is a comprehensive mental health platform that combines AI-powered insights, community support, and wearable device integration to provide personalized mental wellness solutions.
 
 ## Features
 
